@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: LiveReload_Grunt
-Plugin URI: http://git.soulssoft.org/soulssoft/livereload_grunt
+Plugin URI: https://github.com/soulssoft/WP-Plugin-Livereload-Grunt
 Description: Use this plugin only in debug mode. Connect Wordpress Frontend to Grunt contrib watch - Livereload
 Author: Romain Fischer
 Version: 1.0
